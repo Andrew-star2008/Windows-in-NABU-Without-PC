@@ -1,29 +1,29 @@
-# _Windows Installation Guide for Xiaomi Pad 5 [Without PC]_
+# _ Руководство по установке Windows для Xiaomi Pad 5 [Без ПК]_
 
 <img align="right" src="/guide/nabu.png" width="450" alt="Windows installation on NABU">
 
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/nabuwoa)
 
-## ⚠️ Warning
-- _We're not responsible for any damage. Do it on your own risk._
-- _This project is in an early stage, follow all the steps carefully._
+## ⚠️ Внимание
+- _Мы не несём ответственности за любой ущерб. Делайте это на свой страх и риск._
+- _Этот проект находится на ранней стадии, внимательно следуйте всем инструкциям.
 
 #
-## Get started
-- [_Installation Instructions_](guide/Installation.md)
+## Начало работы
+- [Инструкции по установке](руководство/Installation.md)
 
-- [_Update Drivers_](guide/DriverUpdate.md)
+- [Обновление драйверов](руководство/DriverUpdate.md)
 
-- [_Re-Installation_](guide/Re-Installation.md)
+- [Переустановка](руководство/Re-Installation.md)
   
 - [_Troubleshooting_](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/blob/main/guide/English/troubleshooting-en.md)
 #
-## Miscellaneous
-- [_Project Status_](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/blob/main/guide/English/status.md)
+## Разное
+- [_Статус проекта_](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/blob/main/guide/English/status.md)
 
-- [_Additional Materials_](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/blob/main/guide/English/Additional-materials-en.md)
+- [_Дополнительные материалы_](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/blob/main/guide/English/Additional-materials-en.md)
 
-- [_Uninstall Instructions_]()
+- [_Инструкции по удалению_]()
 #
 ## Contributors
 [<img alt="Icesito68" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113939920?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Icesito68)
@@ -55,5 +55,4 @@
 [<img alt="gvzd" src="https://i.ibb.co/VxsvNZ6/Ellipse-1.png" />](https://https://github.com/gvzd)
 [<img alt="chiyuki0325" src="https://imgsrc.baidu.com/forum/pic/item/810a19d8bc3eb13511b8c49ae01ea8d3fd1f4497.png" />](https://github.com/chiyuki0325)
 [<img alt="Kumar-Jy" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/20044626?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Kumar-Jy)
-
-
+[<img alt="Andrew-star2008" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/149420042?&v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Andrew-star2008)
